@@ -1,3 +1,0 @@
-## This is a quarto document
-
-I should delete this later
