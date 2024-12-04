@@ -1,6 +1,9 @@
 # Ignore the '.ipynb_checkpoints' directory
 .ipynb_checkpoints
 
+#ignore test
+test.qmd
+
 # Ignore the 'data' directory
 data/
 
